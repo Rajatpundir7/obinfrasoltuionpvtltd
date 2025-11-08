@@ -1,0 +1,26 @@
+{
+  "name": "ombalaji-infra-website",
+  "version": "1.0.0",
+  "description": "OMBALAJI INFRA SOLUTION PRIVATE LIMITED - Official Website",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "infrastructure",
+    "construction",
+    "highway",
+    "civil-engineering"
+  ],
+  "author": "OMBALAJI INFRA SOLUTION PRIVATE LIMITED",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^3.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
+

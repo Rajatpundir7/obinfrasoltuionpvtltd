@@ -1,0 +1,48 @@
+==========================================
+VERCEL DEPLOYMENT - QUICK INSTRUCTIONS
+==========================================
+
+STEP 1: LOGIN TO VERCEL
+------------------------
+1. Open this link in your browser:
+   https://vercel.com/login
+
+2. Sign in (or create account if you don't have one)
+   - You can use GitHub, GitLab, or Email
+
+3. After logging in, come back here
+
+STEP 2: DEPLOY VIA BROWSER (EASIEST METHOD)
+-------------------------------------------
+1. Go to: https://vercel.com/new
+2. Click "Continue with GitHub" (or your preferred method)
+3. Click "Import Git Repository" OR "Browse" to upload
+4. If uploading:
+   - Drag and drop your entire project folder
+   - Click "Deploy"
+5. Wait 1-2 minutes
+6. Your site will be live!
+
+STEP 3: GET YOUR DEPLOYMENT URL
+--------------------------------
+After deployment:
+- Vercel will show you a URL like: https://ombalaji-infra-website.vercel.app
+- This is your live website!
+
+==========================================
+
+ALTERNATIVE: Use Vercel CLI (after login)
+==========================================
+Run these commands in PowerShell:
+
+1. vercel login
+   (Follow browser prompts)
+
+2. vercel
+   (Deploy to preview)
+
+3. vercel --prod
+   (Deploy to production)
+
+==========================================
+
